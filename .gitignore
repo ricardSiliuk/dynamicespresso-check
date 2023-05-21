@@ -1,0 +1,5 @@
+.idea
+TestApp/obj/*
+TestApp/bin/*
+ProtosAndExtensions/obj/*
+ProtosAndExtensions/bin/*
